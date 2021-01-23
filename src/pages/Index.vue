@@ -32,12 +32,6 @@
             rel="noopener noreferrer"
             ><font-awesome :icon="['fab', 'keybase']"
           /></a>
-          <a
-            href="https://www.instagram.com/stefan.avra/"
-            target="_blank"
-            rel="noopener noreferrer"
-            ><font-awesome :icon="['fab', 'instagram']"
-          /></a>
           <a href="https://www.codewars.com/users/avra" target="_blank" rel="noopener noreferrer">
           <img class="-mt-1 h-4 w-4 inline-block" src="codewars.svg" alt=""></a>
         </p>
