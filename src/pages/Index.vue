@@ -7,7 +7,7 @@
         </h1>
 
         <p class="text-xl">
-          Hi. I'm a Software developer from Stuttgart, Germany.<br />My friends
+          Hi. I'm a software developer from Stuttgart, Germany.<br />My friends
           call me <span class="italic">Avra</span>.
         </p>
 
@@ -20,6 +20,10 @@
           <a href="https://github.com/stefanavra" target="_blank" rel="noopener"
             ><font-awesome :icon="['fab', 'github']"
           /></a>
+          <a href="https://matrix.to/#/@avra:matrix.org" target="_blank" rel="noopener noreferrer">
+          <img class="-mt-1 h-5 w-5 inline-block" src="matrix.svg" alt=""></a>
+          <a href="https://www.codewars.com/users/avra" target="_blank" rel="noopener noreferrer">
+          <img class="-mt-1 h-4 w-4 inline-block" src="codewars.svg" alt=""></a>
           <a
             href="https://twitter.com/stefanavra"
             target="_blank"
@@ -32,8 +36,6 @@
             rel="noopener noreferrer"
             ><font-awesome :icon="['fab', 'keybase']"
           /></a>
-          <a href="https://www.codewars.com/users/avra" target="_blank" rel="noopener noreferrer">
-          <img class="-mt-1 h-4 w-4 inline-block" src="codewars.svg" alt=""></a>
         </p>
       </div>
     </div>
